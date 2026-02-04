@@ -1,11 +1,7 @@
-# Este repositorio está EOL, ha terminado su vida útil, es funcional y puede servir para fines didácticos pero no debe usarse de forma seria
-____    ____  ________  _________   ______        _       
-|_   \  /   _||_   __  ||  _   _  |.' ____ \      / \      
-  |   \/   |    | |_ \_||_/ | | \_|| (___ \_|    / _ \     
-  | |\  /| |    |  _| _     | |     _.____`.    / ___ \    
- _| |_\/_| |_  _| |__/ |   _| |_   | \____) | _/ /   \ \_  
-|_____||_____||________|  |_____|   \______.'|____| |____| 
-                                                           
+**Este repositorio está EOL, ha terminado su vida útil, es funcional y puede servir para fines didácticos pero no debe usarse de forma seria**
+
+# METSA
+
 Metsa, observar en zoque, tiene como funcionalidad automatizar, monitorear, organizar y respaldar la toma de datos del detector Escaramujo, se divide en 3 scripts para la toma de datos y uno para la graficación de dichos datos facilitando el manejo de los resultados en el flujo reportados por Escaramujo.
 
 # ¿Cómo usar minicom y Escaramujo? #
